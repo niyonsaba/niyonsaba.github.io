@@ -1,0 +1,4 @@
+#EXTINF:-1 tvg-id="KC2.rw" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="https://i.imgur.com/13N8UX5.jpg" group-title="Rwanda",KC2 (720p) [Not 24/7]
+http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
+#EXTINF:-1 tvg-id="RTVRwanda.rw" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="https://i.imgur.com/nGNMiUE.png" group-title="Rwanda",RTV Rwanda (480p) [Not 24/7]
+http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
