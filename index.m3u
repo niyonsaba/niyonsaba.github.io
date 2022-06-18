@@ -2,3 +2,5 @@
 http://197.243.19.131:1935/kc2/kc2/chunklist.m3u8
 #EXTINF:-1 tvg-id="RTVRwanda.rw" tvg-country="RW" tvg-language="Kinyarwanda" tvg-logo="https://i.imgur.com/nGNMiUE.png" group-title="Rwanda",RTV Rwanda (480p) [Not 24/7]
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
+#EXTINF:-1 tvg-id="rt.com" tvg-country="RU" tvg-language="English" tvg-logo="https://i.imgur.com/nGNMiUE.png" group-title="Russia",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
