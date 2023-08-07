@@ -2,5 +2,3 @@
 http://197.243.19.131:1935/rtv/rtv/chunklist.m3u8
 #EXTINF:-1 tvg-id="rt.com" tvg-country="RU" tvg-language="English" tvg-logo="https://en.wikipedia.org/wiki/RT_Documentary#/media/File:RTD-TV-logo.png" group-title="Russia",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 tvg-id="CBATDT.ca" tvg-logo="https://i.imgur.com/xflShTG.png" group-title="Undefined",CBC New Brunswick (CBAT-DT) [Geo-blocked]
-https://cbcrclinear-tor.akamaized.net/hls/live/2042757/CBCRCLINEAR_TOR_3/master5.m3u8
