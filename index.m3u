@@ -20,3 +20,6 @@ https://citynewsregional.akamaized.net/hls/live/1024053/Regional_Live_8/master.m
 https://citynewsregional.akamaized.net/hls/live/1024052/Regional_Live_7/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Global News
 https://live.corusdigitaldev.com/groupd/live/49a91e7f-1023-430f-8d66-561055f3d0f7/live.isml/live-audio_1=96000-video=2499968.m3u8
+#EXTINF:-1 tvg-id="CNNInternationalEurope.us" tvg-logo="https://i.imgur.com/05S3yYZ.png" group-title="News",CNN International Europe (720p)
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
+
