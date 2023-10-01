@@ -28,4 +28,6 @@ https://endpnt.com/hls/nasa4k60/playlist.m3u8
 http://line.gofast-tv.me/play/live.php?extension=ts&mac=00:1A:79:6F:5A:5D&stream=749756
 #EXTINF:-1 tvg-id="NBCLX.us" tvg-logo="https://i.imgur.com/5iT7hEa.png" group-title="Entertainment",NBCLX
 https://nbculocallive.akamaized.net/hls/live/2037096/lx/use1.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="" group-title="Undefined",Food Networkt
+https://e2.thetvapp.to/hls/FoodNetworkEast.m3u8?token=MW76lNb-bMbCq-Y2McEHcQ&expires=1696200188
 
